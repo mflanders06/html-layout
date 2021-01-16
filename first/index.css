@@ -1,0 +1,35 @@
+body{
+    display: flex;
+    flex-direction:column;
+}
+
+header{
+    height:180px;
+    background-color: rgb(80, 80, 80);
+}
+
+main{
+    display: flex;
+    flex-direction:row;
+}
+
+.leftSection, .rightSection{
+    width:150px;
+    height:900px;
+    background-color: rgb(224, 224, 224);
+}
+
+.middleSection{
+    width:600px;
+    display: flex;
+    flex-direction:column;
+}
+
+.middleMain{
+    height:750px;
+}
+
+footer{
+    height:150px;
+    background-color:black;
+}
