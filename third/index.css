@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+section{
+    overflow: auto;
+    height:14vh;
+}
+
+.graySection{
+    background-color:darkgray;
+}
+
+.blueBox{
+    height:100px;
+    width: 100px;
+    background-color:blue;
+    margin-top:10px;
+    margin-bottom:10px;
+    margin-left: 30px;
+}
+
+main{
+    height:20vh;
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Lucida Sans';
+    padding-top: 40px;
+    padding-left:40px;
+    padding-right:40px;
+}
+
+.blueSection{
+    background-color:blue;
+}
+
+.aquaSection{
+    background-color:aqua;
+}
+
+.oliveSection{
+    background-color: olive;
+}
+
+.yellowSection{
+    background-color: yellow;
+}
