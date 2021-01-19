@@ -18,7 +18,7 @@ header{
 #purpleBox{
     height:100px;
     width:30px;
-    background-color:purple;
+    background-color:rgb(126, 58, 218);
     margin-top:45px;
     margin-left:10px;
     margin-right: 10px;
@@ -27,7 +27,7 @@ header{
 #greenBox{
     height:135px;
     width:405px;
-    background-color:green;
+    background-color:rgb(69, 136, 51);
     margin-top:10px;
     margin-bottom:10px;
     margin-left:20px;
@@ -38,7 +38,7 @@ header{
     height:135px;
     width:135px;
     border-radius:100%;
-    background-color: cyan;
+    background-color: rgb(150, 205, 232);
     margin:10px;
 }
 
@@ -54,7 +54,7 @@ main{
 #mainBox{
     width:auto;
     height:135px;
-    background-color: beige;
+    background-color: rgb(254, 249, 210);
     margin:30px;
     box-shadow:6px 6px 3px black;
 
@@ -72,6 +72,6 @@ footer{
     font-size:1cm;
     text-align:center;
     letter-spacing:9px;
-    color:purple;
+    color:rgb(0, 10, 123);
     padding:100px;
 }
